@@ -1,5 +1,6 @@
 trigger:
 - '*'
+- 'gabby-release-branch'
 
 pool:
   vmImage: 'ubuntu-22.04'
